@@ -22,9 +22,8 @@
 @section('content')
 <div class="row">
 	<div class="col-md-12">
-		<!-- BEGIN BORDERED TABLE PORTLET-->
-	    <div class="portlet box blue-dark">
-	        <div class="portlet-title">
+	    <div class="portlet box portlet-box-border-color">
+	        <div class="portlet-title portlet-title-color">
 	            <div class="caption">
 	                <i class=""></i>
 	                <span class="uppercase">List of Vehicle</span>

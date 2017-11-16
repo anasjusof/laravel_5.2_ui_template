@@ -19,7 +19,7 @@ License: You must have a valid license purchased only from themeforest(the above
 <head>
 <?php date_default_timezone_set("Asia/Kuala_Lumpur"); ?>
 <meta charset="utf-8"/>
-<title>AHDA</title>
+<title>Development</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="" name="description"/>
@@ -97,7 +97,7 @@ License: You must have a valid license purchased only from themeforest(the above
 		<!-- BEGIN LOGO -->
 		<div class="page-logo">
 			<a href="/">
-			<i class="icon-home" style="margin-top: 15px; font-size: 20px;"></i>
+			<i class="icon-home icon-home-color" style="margin-top: 15px; font-size: 20px;"></i>
 			<div class="menu-toggler sidebar-toggler hide">
 				<!-- DOC: Remove the above "hide" to enable the sidebar toggler button on header -->
 			</div>
@@ -268,7 +268,7 @@ License: You must have a valid license purchased only from themeforest(the above
 <!-- BEGIN FOOTER -->
 <div class="page-footer text-center">
 	<div class="page-footer-inner ">
-		 2017 &copy; AHDA
+		 Development &copy; 2017
 	</div>
 	<div class="scroll-to-top">
 		<i class="icon-arrow-up"></i>
